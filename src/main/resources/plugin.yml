@@ -1,0 +1,4 @@
+name: Test
+version: '${project.version}'
+main: dev.ender.test.Test
+depend: [LibVerify]
